@@ -1,0 +1,9 @@
+/AugmentedDataset
+/Backup
+/dataset
+/Eigenfaces
+/Face_landmarks
+/input
+/**/*.pickle
+/**/*.xml
+/**/*.dat
